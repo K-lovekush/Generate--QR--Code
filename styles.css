@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    border: 2px solid black;
+    background-color:skyblue;
+
+}
+button{
+    background-color: rebeccapurple;
+    color: orange;
+}
+.QR-code1{
+    padding: 10px;
+    height: fit-content;
+    width: fit-content;
+    border: 2px solid black;
+}
